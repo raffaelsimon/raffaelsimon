@@ -39,7 +39,7 @@
 <!-- Projects -->
 <h2 align="center">Featured Projects</h2>
 
-- [Project 1](link-to-project1): Bekerítés
+- [Project 1](https://github.com/raffaelsimon/Bekerites): Bekerítés
 - [Project 2](link-to-project2): Coming soon
 
 <!-- Contact -->
