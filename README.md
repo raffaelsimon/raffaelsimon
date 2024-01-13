@@ -1,7 +1,5 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://64.media.tumblr.com/tumblr_mcz4v04cDD1raii87o1_500.gifv" alt="Coding GIF">
-</p>
+
 
 <!-- Title -->
 <h1 align="center">Raffael Simon</h1>
